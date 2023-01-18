@@ -1,0 +1,9 @@
+{
+  "name": "cup2",
+  "displayName": "cup2",
+
+  "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-3848386707531022~7891617325"
+  }
+  
+}
