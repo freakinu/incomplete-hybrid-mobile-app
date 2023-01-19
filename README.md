@@ -1,4 +1,4 @@
-last code of my incomplete mobile application built in react native, pushed for portfolio purposes, note that the backend is also available on the [server branch](https://github.com/freakinu/incomplete-hybrid-mobile-app/tree/server)
+last code of my incomplete mobile application built in react native, pushed for portfolio purposes, note that the backend is also available on the [server repo](https://github.com/freakinu/incomplete-mobile-app-backend/blob/main/index.js)
 
 was a pleasure working on it with [Mr.Zaher Al Attah](mailto:zaher@zdccorp.com)
 
